@@ -42,7 +42,8 @@ Component: 1–3 in-house steps.
 Bike: 1 in-house step.
 Raw Component: 97.43% have 0 internal steps => Raw Component is mainly outsourced
 #### => Recommendation:
-	- Source more external vendors with competitive quality and price for Component & Bike.
+
+- Source more external vendors with competitive quality and price for Component & Bike.
 - Prioritize outsourcing low-complexity items
 
 #### Insight 5:
@@ -66,6 +67,7 @@ Correlates with production overload in mid-month.
 Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0.18%)
 => Outsourced vendors may have lower quality control than in-house.
 #### => Recommendation: 
+
 - Reallocate to more capable vendors.
 - Evaluate vendor performance regularly.
 - Strengthen output QC for outsourced production.
