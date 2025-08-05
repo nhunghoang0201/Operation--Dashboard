@@ -33,6 +33,7 @@ Component has 82.97% of the delayed quantity and have the highest late quantity 
 Bike has 93.29% delay rate, though only 1.97% of total volume.
 => As Component is a material of Bike. Therefore, late component could lead late Bike
 #### => Recommendation: 
+
 - Increase safety stock for Components.
 - Pre-produce Components to ensure timely Bike assembly.
 
