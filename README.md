@@ -47,7 +47,7 @@ Raw Component: 97.43% have 0 internal steps => Raw Component is mainly outsource
 - Prioritize outsourcing low-complexity items
 
 #### Insight 5:
-	Orders with >1,000 production runs have >92% on-time rate and are mainly Raw Components 
+Orders with >1,000 production runs have >92% on-time rate and are mainly Raw Components 
 Orders with <1,000 runs: only 6.46–57.35% on-time
 => Increase capability to produce the product when production times increase
 #### => Recommendation: Encourage regular, repeat production for suitable items.
