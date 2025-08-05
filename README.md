@@ -57,7 +57,7 @@ Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Componen
 => Large orders are often better prepared and managed
 #### => Recommendation: Consider consolidating smaller orders into larger batches to improve planning and material management
 
-### 3.2. Plan adherence analysis & Recommendation
+### 3.2. Defect analysis & Recommendation
 #### Insight 1:
 Week 2 & 3 have the highest defect rates.
 Correlates with production overload in mid-month.
